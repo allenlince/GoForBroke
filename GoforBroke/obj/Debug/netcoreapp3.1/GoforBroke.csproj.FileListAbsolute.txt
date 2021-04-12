@@ -1,0 +1,13 @@
+C:\Users\lince\source\repos\GoforBroke\GoforBroke\bin\Debug\netcoreapp3.1\GoforBroke.exe
+C:\Users\lince\source\repos\GoforBroke\GoforBroke\bin\Debug\netcoreapp3.1\GoforBroke.deps.json
+C:\Users\lince\source\repos\GoforBroke\GoforBroke\bin\Debug\netcoreapp3.1\GoforBroke.runtimeconfig.json
+C:\Users\lince\source\repos\GoforBroke\GoforBroke\bin\Debug\netcoreapp3.1\GoforBroke.runtimeconfig.dev.json
+C:\Users\lince\source\repos\GoforBroke\GoforBroke\bin\Debug\netcoreapp3.1\GoforBroke.dll
+C:\Users\lince\source\repos\GoforBroke\GoforBroke\bin\Debug\netcoreapp3.1\GoforBroke.pdb
+C:\Users\lince\source\repos\GoforBroke\GoforBroke\obj\Debug\netcoreapp3.1\GoforBroke.csprojAssemblyReference.cache
+C:\Users\lince\source\repos\GoforBroke\GoforBroke\obj\Debug\netcoreapp3.1\GoforBroke.AssemblyInfoInputs.cache
+C:\Users\lince\source\repos\GoforBroke\GoforBroke\obj\Debug\netcoreapp3.1\GoforBroke.AssemblyInfo.cs
+C:\Users\lince\source\repos\GoforBroke\GoforBroke\obj\Debug\netcoreapp3.1\GoforBroke.csproj.CoreCompileInputs.cache
+C:\Users\lince\source\repos\GoforBroke\GoforBroke\obj\Debug\netcoreapp3.1\GoforBroke.dll
+C:\Users\lince\source\repos\GoforBroke\GoforBroke\obj\Debug\netcoreapp3.1\GoforBroke.pdb
+C:\Users\lince\source\repos\GoforBroke\GoforBroke\obj\Debug\netcoreapp3.1\GoforBroke.genruntimeconfig.cache
